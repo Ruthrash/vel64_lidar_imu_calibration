@@ -1,4 +1,4 @@
-# vel64_lidar_imu_calibration
+# Offline Unsupervised Calibration of Multibeam Laser sensors 
 Scripts used for Unsupervised Extrinsic calibration of Velodyne 64 
 
 calibration.py : Python script that performs the calibration
